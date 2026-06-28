@@ -13,3 +13,10 @@ A clean and fully responsive login form built with HTML, CSS, and JavaScript.
 ---
 
 ## 📁 Project Structure
+
+```
+responsive-login-form/
+├── index.html
+├── style.css
+└── script.js
+```
